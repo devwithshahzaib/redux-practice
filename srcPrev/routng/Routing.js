@@ -13,7 +13,7 @@ function Routing() {
       <Routes>
         <Route path="classComponent" element={<ClassComponent />} />
         <Route path="functionalComponent" element={<FunctionalComponent />} />
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Home />}  />
         <Route path="help" element={<Help />} />
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact />} />
